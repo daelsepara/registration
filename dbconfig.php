@@ -1,6 +1,6 @@
 <?php
 
 $dbhost = "localhost";
-$dbuser = "dbadmin";
-$dbpass = "MxG6wYrL)V7Khb0q";
+$dbuser = "(user)";
+$dbpass = "(password)";
 $dbname = "nxm_registration";
